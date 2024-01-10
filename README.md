@@ -1,5 +1,19 @@
 ## Rock Paper Scissors Game in JavaScript - GitHub Repository Description
 
+
+
+<img width="951" alt="1" src="https://github.com/whycode01/Rock-Paper-Scissor/assets/123396317/c1f139fc-5616-48cc-8a0b-4d467a4a6b82">
+
+<img width="953" alt="2" src="https://github.com/whycode01/Rock-Paper-Scissor/assets/123396317/0fde7f89-bd69-4f0d-b5fd-7204c5e7596b">
+
+<img width="954" alt="3" src="https://github.com/whycode01/Rock-Paper-Scissor/assets/123396317/88bab926-7942-41f0-ade0-ffdee7c87466">
+
+<img width="954" alt="4" src="https://github.com/whycode01/Rock-Paper-Scissor/assets/123396317/3d9b84f8-5b02-4f92-94a4-81b2676459cf">
+
+
+
+
+
 Here's a detailed description for your Rock Paper Scissors game in JavaScript for GitHub:
 
  Rock Paper Scissors: A JavaScript Game 
